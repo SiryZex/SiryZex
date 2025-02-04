@@ -140,7 +140,7 @@
 ### ✍️Food For Thought:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# Enjoy and Goodbye<img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">:
+# Enjoy and Goodbye <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">:
 
 <div align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
