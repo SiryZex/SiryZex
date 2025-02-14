@@ -1,4 +1,4 @@
-<h1 align="left">Hey, What's up? My name is Xia-Vyan Dainels👋 and I'm a Junior Data Scientist, glad you found interest in my work</h1>
+<h1 align="left">Hey, What's up? My name is Xia-Vyan Daniels👋 and I'm a Junior Data Scientist, glad you found interest in my work</h1>
 
 ###
 
